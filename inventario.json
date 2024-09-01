@@ -1,0 +1,20 @@
+{
+    "003": {
+        "id_producto": "003",
+        "nombre": "switch poe 8p",
+        "cantidad": 25,
+        "precio": 68.0
+    },
+    "001": {
+        "id_producto": "001",
+        "nombre": "laptop hp",
+        "cantidad": 9,
+        "precio": 298.0
+    },
+    "002": {
+        "id_producto": "002",
+        "nombre": "rack 12U",
+        "cantidad": 12,
+        "precio": 156.0
+    }
+}
